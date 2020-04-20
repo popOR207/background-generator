@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    background: linear-gradient(to right, red, #f0ff0f);
+
+}
+
+h1 {
+    font: 300 3.5em 'raleway', sans-serif;
+}
+
+h3 {
+    font: 300 0.5em 'raleway', sans-serif;
+}
